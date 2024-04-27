@@ -1,1 +1,1 @@
-# :smile: Testing c++ :smile: #
+# :smile: Learning C++ :smile: #
