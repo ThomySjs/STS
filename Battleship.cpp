@@ -37,10 +37,10 @@ int main(){
             }
         }
     }
-    //Cout explaining the rules and the map
+    //Cout explaining the rules 
     cout<< "Rules: \n 1: What you see above is the map, its a 4x4 map but it starts from 0 so your coordinates will be from 0 to 3. \n 2: There are (2) 2x2 and (1) 1x1 ships, you win when all ships are destroyed. \n";
     cout << " " << "3: You must write the coordinates starting with the value row followed by the column value. Ex: row 1 column 3 ----> 1 3. \n ";
-    cout << " " <<  "4: Only 6 missed shots allowed."<<endl;
+    cout << " " <<  "4: Only 5 missed shots allowed."<<endl;
 
     //Asks the player if wants to start the game (if not, just reset the loop till answer = yes)
     for (0; run < 1; 0){
